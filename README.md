@@ -1,5 +1,5 @@
 # Taxi Service
-![taxi](taxiPictureForReadMe.jpg)
+![taxi](images/taxiPictureForReadMe.jpg)
 
 ## Contents
 + [Overview](#Overview) 
@@ -46,7 +46,7 @@ Project implemented refers to an n-tier structure and has three layers:
 
 Table relations 
 
-![Table relations](tableRelationsForReadMe.jpg)
+![Table relations](images/tableRelationsForReadMe.jpg)
 
 <a name="Application-startup"></a>
 ## Application startup
